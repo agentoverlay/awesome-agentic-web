@@ -73,11 +73,12 @@
 
 ### Agentic Commerce
 
-
 ## Protocols
 - **A2A Protocol** — Open source agent-to-agent comms: <https://github.com/a2aproject/A2A>
 - **Model Context Protocol (MCP)** — Spec + SDKs: <https://modelcontextprotocol.io> · Org: <https://github.com/modelcontextprotocol>
 - **NLWeb** — Toolkit for agent-friendly sites: <https://github.com/nlweb-ai/NLWeb>
+- **[Human Context Protocol](https://humancontextprotocol.com/)**:
+- **[AP2](https://ap2-protocol.org/)**
 - **KYAPay** — Agent identity + payments: Whitepaper <https://www.kyapay.ai/> · Repo <https://github.com/skyfire-xyz/kyapay>
 - **Awesome Proof of Personhood** — Curated list: <https://github.com/andorsk/awesome-proof-of-personhood>
 
@@ -85,7 +86,6 @@
 - **Awesome Trust Registries** — Curated list: <https://github.com/andorsk/awesome-trust-registries>
 - **Awesome Confidential Computing** — Curated list: <https://github.com/bpradipt/awesome-confidential-computing>
 - **Awesome AI Tools** — Curated list: <https://github.com/mahseema/awesome-ai-tools>
-
 
 ## Videos
 - **IETF 123 – AIPREF Session (2025-07-21)** — <https://www.youtube.com/watch?v=peXOXYH8vzM>
@@ -100,10 +100,6 @@
 2. **Agentic Security** (policy, TEEs, Confidential Compute, TSP) — *How do we secure trust & runtime?*  
 3. **Protocols** (A2A, A2P, MCP, NLWeb, GNAP/OAuth) — *How do agents talk & act?*  
 4. **Simulation** (ABM, twins, testbeds) — *How do we test before deployment?*
-
-**Registries** (e.g., **NANDA Index**) link identity and discovery. **A2P** frames agents as protocol-native; **A2A** enables marketplaces and peer coordination.
-
----
 
 ## Contribute
 Contributions welcome! Please read the [contribution guidelines](contributing.md) before submitting.
