@@ -18,10 +18,6 @@
 ## Groups
 - [IETF AI Preferences (AIPREF)](https://datatracker.ietf.org/wg/aipref/about/) – Signal content creators’ AI usage prefs.
 - [IETF Web Bot Authentication (BoF)](https://datatracker.ietf.org/doc/bofreq-nottingham-web-bot-authentication/) – Cryptographic identity for bots/agents.
-- AI Agent side meetings @ IETF 123:
-  - [AI Agent Protocol discussions](https://www.ietf.org/meeting/123/) – multi-session side meetings.
-  - [AI agents in 6G networks (draft)](https://datatracker.ietf.org/doc/draft-hw-ai-agent-6g/) – requirements for 6G contexts.
-  - [Impact of AI agents on network infra (draft)](https://www.ietf.org/archive/id/draft-han-ai-agent-impact-infra-00.txt) – network implications.
 - [W3C AI Agent Protocol CG](https://www.w3.org/groups/cg/agentprotocol) – Interop protocols for agents.
 - [W3C AI KR CG](https://www.w3.org/groups/cg/aikr) – Knowledge representation for AI.
 - [OpenID Foundation – AI Identity Management CG](https://openid.net/cg/artificial-intelligence-identity-management-community-group/) – Identity/auth for AI agents.
@@ -30,15 +26,10 @@
 - [Linux Foundation Digital Trust](https://www.lfdecentralizedtrust.org/blog/toip-and-dif-announce-three-new-working-groups-for-trust-in-the-age-of-ai?hsLang=en) – New WGs for AI trust.
 - [Project NANDA](https://nandaproject.org/) – Internet of Agents research.
 
----
-
 ## Papers
 - **NANDA Index:** *Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts* — arXiv: [2507.14263](https://arxiv.org/abs/2507.14263) (2025).
 - *A Novel Zero-Trust Identity Framework for Agentic AI* — arXiv: [2505.19301](https://arxiv.org/abs/2505.19301) (2025).
 - *A Survey of AI Agent Protocols* — arXiv: [2504.16736](https://arxiv.org/abs/2504.16736) (2025).
-- *Trust Spanning Protocol: Strengthening Trust in Human–AI Interactions* — ToIP whitepaper (2025) [PDF](https://trustoverip.org/wp-content/uploads/TSP_-Strengthening-Trust-in-Human-and-AI-Interactions.pdf).
-- **GNAP (IETF):** Core [RFC 9635](https://datatracker.ietf.org/doc/rfc9635/), RS connections [RFC 9767](https://datatracker.ietf.org/doc/rfc9767/).
-- **OAuth 2.0:** [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749).
 
 ## Concepts
 
@@ -81,7 +72,10 @@
 - **[AP2](https://ap2-protocol.org/)**
 - **KYAPay** — Agent identity + payments: Whitepaper <https://www.kyapay.ai/> · Repo <https://github.com/skyfire-xyz/kyapay>
 - **Awesome Proof of Personhood** — Curated list: <https://github.com/andorsk/awesome-proof-of-personhood>
-
+- *Trust Spanning Protocol: Strengthening Trust in Human–AI Interactions* — ToIP whitepaper (2025) [PDF](https://trustoverip.org/wp-content/uploads/TSP_-Strengthening-Trust-in-Human-and-AI-Interactions.pdf).
+- **GNAP (IETF):** Core [RFC 9635](https://datatracker.ietf.org/doc/rfc9635/), RS connections [RFC 9767](https://datatracker.ietf.org/doc/rfc9767/).
+- **OAuth 2.0:** [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749).
+  
 ## Supplementary Awesome Lists
 - **Awesome Trust Registries** — Curated list: <https://github.com/andorsk/awesome-trust-registries>
 - **Awesome Confidential Computing** — Curated list: <https://github.com/bpradipt/awesome-confidential-computing>
