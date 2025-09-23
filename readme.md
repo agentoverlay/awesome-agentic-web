@@ -23,6 +23,7 @@
 - **NANDA Index:** *Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts* — arXiv: [2507.14263](https://arxiv.org/abs/2507.14263) (2025).
 - *A Novel Zero-Trust Identity Framework for Agentic AI* — arXiv: [2505.19301](https://arxiv.org/abs/2505.19301) (2025).
 - *A Survey of AI Agent Protocols* — arXiv: [2504.16736](https://arxiv.org/abs/2504.16736) (2025).
+- [*Why Do Multi-Agent LLM Systems Fail?*](https://arxiv.org/abs/2503.13657) : A taxonomy designed to understand MAS failures.
 
 ## Concepts
 
