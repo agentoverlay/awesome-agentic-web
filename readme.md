@@ -4,27 +4,21 @@
 
 > A curated list of components for the **Agentic Web** – where AI agents autonomously interact, collaborate, and transact.
 
-## Contents
-- [Groups](#groups)
-- [Papers](#papers)
-- [Concepts](#concepts)
-- [Tools](#tools)
-- [Videos](#videos)
-- [Taxonomy Commentary](#taxonomy-commentary)
-- [Contribute](#contribute)
 
----
+## Open Working Groups
 
-## Groups
+- [DIF – Trusted AI Agents WG](https://identity.foundation/working-groups/trusted-agents.html) – Trusted agent stack.
+- [IBM AI Alliance](https://thealliance.ai/) : The AI Alliance is building and advancing open source AI agents, data, models, evaluation, safety, applications and advocacy to ensure everyone can benefit.
 - [IETF AI Preferences (AIPREF)](https://datatracker.ietf.org/wg/aipref/about/) – Signal content creators’ AI usage prefs.
 - [IETF Web Bot Authentication (BoF)](https://datatracker.ietf.org/doc/bofreq-nottingham-web-bot-authentication/) – Cryptographic identity for bots/agents.
-- [W3C AI Agent Protocol CG](https://www.w3.org/groups/cg/agentprotocol) – Interop protocols for agents.
-- [W3C AI KR CG](https://www.w3.org/groups/cg/aikr) – Knowledge representation for AI.
 - [OpenID Foundation – AI Identity Management CG](https://openid.net/cg/artificial-intelligence-identity-management-community-group/) – Identity/auth for AI agents.
 - [Trust over IP – AI & Human Trust WG](https://www.lfdecentralizedtrust.org/projects/trust-over-ip) – Trust frameworks for AI.
-- [DIF – Trusted AI Agents WG](https://identity.foundation/working-groups/trusted-agents.html) – Trusted agent stack.
 - [Linux Foundation Digital Trust](https://www.lfdecentralizedtrust.org/blog/toip-and-dif-announce-three-new-working-groups-for-trust-in-the-age-of-ai?hsLang=en) – New WGs for AI trust.
+- [Linux Foundation AGNTCY](https://github.com/agntcy) : The AGNTCY project is the collective of contributors and maintainers building the Internet of Agents (IoA): an open, interoperable, internet for agent-to-agent collaboration. AGNTCY is proudly part of the Linux Foundation.
 - [Project NANDA](https://nandaproject.org/) – Internet of Agents research.
+- [W3C AI Agent Protocol CG](https://www.w3.org/groups/cg/agentprotocol) – Interop protocols for agents.
+- [W3C AI KR CG](https://www.w3.org/groups/cg/aikr) – Knowledge representation for AI.
+- [Open Source AI Agent Projects](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file#open-source-projects) : Open Source AI Agent Projects
 
 ## Papers
 - **NANDA Index:** *Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts* — arXiv: [2507.14263](https://arxiv.org/abs/2507.14263) (2025).
