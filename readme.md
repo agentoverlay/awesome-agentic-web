@@ -4,7 +4,6 @@
 
 > A curated list of components for the **Agentic Web** – where AI agents autonomously interact, collaborate, and transact.
 
-
 ## Open Working Groups
 
 - [DIF – Trusted AI Agents WG](https://identity.foundation/working-groups/trusted-agents.html) – Trusted agent stack.
@@ -80,6 +79,12 @@
 - **AIPREF Interim (2025-04-08)** — <https://www.youtube.com/watch?v=yc2lON_eVzk>
 - **AI Agent Protocols: From Theory to Practice** — <https://www.youtube.com/watch?v=N_etKamePm0>
 - **Scaling the Agentic Web** — <https://www.youtube.com/live/SJ8rFKJ8NHw?si=aCu03ZYaUKo6v5Lc&t=2235>
+
+## Frameworks
+TODO
+
+## Libraries
+TODO
 
 ## Taxonomy Commentary
 **How to read this map:**
