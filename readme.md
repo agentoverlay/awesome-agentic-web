@@ -102,10 +102,11 @@ These are foundational themes and abstractions that underpin an **Agentic Web**,
 
 ## Videos
 
+* **World Wide Web of AI Agents** - [Youtube](https://www.youtube.com/watch?v=jlcO19XyQ1I)
+* **Scaling the Agentic Web** — [YouTube Live](https://www.youtube.com/live/SJ8rFKJ8NHw?si=aCu03ZYaUKo6v5Lc&t=2235)
 * **IETF 123 – AIPREF Session (2025-07-21)** — [YouTube](https://www.youtube.com/watch?v=peXOXYH8vzM)
 * **AIPREF Interim (2025-04-08)** — [YouTube](https://www.youtube.com/watch?v=yc2lON_eVzk)
 * **AI Agent Protocols: From Theory to Practice** — [YouTube](https://www.youtube.com/watch?v=N_etKamePm0)
-* **Scaling the Agentic Web** — [YouTube Live](https://www.youtube.com/live/SJ8rFKJ8NHw?si=aCu03ZYaUKo6v5Lc&t=2235)
 
 ---
 
