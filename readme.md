@@ -85,20 +85,16 @@ These are foundational themes and abstractions that underpin an **Agentic Web**,
 * **Human Context Protocol** — [Website](https://humancontextprotocol.com/)
 * **AP2** — [Website](https://ap2-protocol.org/)
 * **KYAPay** — Agent identity + payments: [Whitepaper](https://www.kyapay.ai/) · [Repo](https://github.com/skyfire-xyz/kyapay)
-* **Awesome Proof of Personhood** — [Curated list](https://github.com/andorsk/awesome-proof-of-personhood)
 * **Trust Spanning Protocol (TSP)** — Whitepaper (2025) [PDF](https://trustoverip.org/wp-content/uploads/TSP_-Strengthening-Trust-in-Human-and-AI-Interactions.pdf)
 * **GNAP (IETF):** [RFC 9635](https://datatracker.ietf.org/doc/rfc9635/), [RFC 9767](https://datatracker.ietf.org/doc/rfc9767)
 * **OAuth 2.0:** [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749)
-
----
 
 ## Supplementary Awesome Lists
 
 * **Awesome Trust Registries** — [https://github.com/andorsk/awesome-trust-registries](https://github.com/andorsk/awesome-trust-registries)
 * **Awesome Confidential Computing** — [https://github.com/bpradipt/awesome-confidential-computing](https://github.com/bpradipt/awesome-confidential-computing)
 * **Awesome AI Tools** — [https://github.com/mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
-
----
+* **Awesome Proof of Personhood** — [Curated list](https://github.com/andorsk/awesome-proof-of-personhood)
 
 ## Videos
 
