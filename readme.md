@@ -20,7 +20,6 @@
 * [W3C AI KR CG](https://www.w3.org/groups/cg/aikr) — Knowledge representation for AI
 * [Open Source AI Agent Projects](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file#open-source-projects) — Curated open source agent projects
 
----
 
 ## Papers
 
@@ -34,6 +33,19 @@
 * [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) : Self-reflective loops improve agent performance on complex tasks (2023).
 * [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) : Curriculum-generating, skill-acquiring agent in Minecraft (2023).
 * [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) : Broad survey of LLM agents, design patterns, and evaluations (2023–2024).
+
+## Blogs
+
+* [Andor Kesselman's Linkedin Feed](https://www.linkedin.com/in/andorsk/recent-activity/all/) : Consistent posts about the agentic web
+* [Agent AI Blog](https://kenhuangus.substack.com/) : Ken Huang's Agentic AI Blogpost
+
+## Events
+
+* [Agentic Internet Workshop](https://agenticinternetworkshop.org/)
+
+## Communities
+
+* [AI Alliance](https://thealliance.ai/)
 
 ## Use Cases
 
