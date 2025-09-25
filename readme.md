@@ -1,6 +1,6 @@
 # Awesome Agentic Web [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **WIP:** This list is under active development. Contributions welcome via PRs and issues.
+> **WIP:** This list is under active development. Contributions welcome via PRs and issues.  
 > A curated list of components for the **Agentic Web** – where AI agents autonomously interact, collaborate, and transact.
 
 ---
@@ -24,60 +24,25 @@
 
 ## Papers
 
-* **NANDA Index:** *Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts* — [arXiv:2507.14263](https://arxiv.org/abs/2507.14263) (2025)
-* *A Novel Zero-Trust Identity Framework for Agentic AI* — [arXiv:2505.19301](https://arxiv.org/abs/2505.19301) (2025)
-* *A Survey of AI Agent Protocols* — [arXiv:2504.16736](https://arxiv.org/abs/2504.16736) (2025)
-* *Why Do Multi-Agent LLM Systems Fail?* — [arXiv:2503.13657](https://arxiv.org/abs/2503.13657)
-* *On the Foundations of Agentic Web Incentives* — [arXiv:2507.21206](https://arxiv.org/pdf/2507.21206)
-
----
-
-## Concepts (Core Foundations of the Agentic Web)
-
-These are foundational themes and abstractions that underpin an **Agentic Web**, focusing on *what must be true* rather than *which protocol does it*.
-
-### Identity & Authority
-
-* **Agent Identity** — A structured representation of “who or what” an agent is (e.g. credentials, decentralized identifiers, attestation).
-* **Delegation & Authority Transfer** — Manner in which agents can grant limited rights or act on behalf of others (humans, agents) under scoped constraints.
-* **Reputation & Trust Signals** — Continuous feedback, endorsements, and reputation systems that inform how agents are trusted or distrusted.
-
-### Autonomy & Intent
-
-* **Goal Representation & Planning** — How agents define, decompose, and pursue objectives in dynamic settings.
-* **Decision & Strategy** — Balancing exploration, risk, uncertainty, multi-agent coordination, and adaptation.
-
-### Security, Safety & Governance
-
-* **Runtime Guarantees & Enforcement** — Mechanisms ensuring agents adhere to policy, safety constraints, or regulatory rules.
-* **Trust Boundaries & Isolation** — Defining zones where agents can operate, and preventing cross-contamination of influence, privileges, or data.
-* **Accountability & Auditability** — Traceability, logs, and verifiable evidence of agent decisions and their consequences.
-
-### Interaction & Orchestration
-
-* **Inter-agent Communication** — Mechanisms for negotiation, information exchange, protocol mediation, and coordination abstractly defined.
-* **Orchestration & Mediation** — How multiple agents collaborate under shared objectives, roles, task allocation, and conflict resolution.
-* **Contextual Adaptation** — Agents adjusting or reinterpreting their behavior based on environmental signals, past interactions, or evolving norms.
-
-### Evaluation & Simulation
-
-* **Sandboxing & Simulation** — Virtual environments to test agent behavior before deployment in the real world.
-* **Performance, Safety, and Robustness Metrics** — Quantitative and qualitative criteria to evaluate agent behavior (efficiency, fairness, safety, resilience).
-* **Digital Twins & Environment Models** — Simulated analogues of real systems to plan, project, and validate agent actions.
-
----
+* [Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts](https://arxiv.org/abs/2507.14263) : Proposes a NANDA Index and “AgentFacts” to enable discovery and trust for Internet-scale agents (2025).
+* [A Novel Zero-Trust Identity Framework for Agentic AI](https://arxiv.org/abs/2505.19301) : Outlines a zero-trust identity architecture tailored to autonomous agents (2025).
+* [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736) : Systematic review of emerging protocols for agent communication and coordination (2025).
+* [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) : Taxonomy and failure modes of multi-agent LLM systems, with evaluation guidance (2025).
+* [On the Foundations of Agentic Web Incentives](https://arxiv.org/pdf/2507.21206) : Incentive design considerations for an agentic web ecosystem (2025).
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) : Emergent social behaviors from sandboxed LLM agents (2023).
+* [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) : Orchestrates specialized models/tools via an LLM controller (2023).
+* [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) : Self-reflective loops improve agent performance on complex tasks (2023).
+* [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) : Curriculum-generating, skill-acquiring agent in Minecraft (2023).
+* [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) : Broad survey of LLM agents, design patterns, and evaluations (2023–2024).
 
 ## Use Cases
 
 ### Agentic Commerce
-
 *(expand with scenarios such as autonomous shopping agents, negotiation agents, supply-chain agents, etc.)*
 
 ---
 
 ## Protocols & Implementations
-
-*(Here you can list concrete protocols, libraries, SDKs, etc.)*
 
 * **A2A Protocol** — [GitHub](https://github.com/a2aproject/A2A)
 * **Model Context Protocol (MCP)** — [Spec](https://modelcontextprotocol.io) · [Org](https://github.com/modelcontextprotocol)
@@ -91,42 +56,55 @@ These are foundational themes and abstractions that underpin an **Agentic Web**,
 
 ## Supplementary Awesome Lists
 
-* **Awesome Trust Registries** — [https://github.com/andorsk/awesome-trust-registries](https://github.com/andorsk/awesome-trust-registries)
-* **Awesome Confidential Computing** — [https://github.com/bpradipt/awesome-confidential-computing](https://github.com/bpradipt/awesome-confidential-computing)
-* **Awesome AI Tools** — [https://github.com/mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
-* **Awesome Proof of Personhood** — [Curated list](https://github.com/andorsk/awesome-proof-of-personhood)
+* **Awesome Trust Registries** — <https://github.com/andorsk/awesome-trust-registries>
+* **Awesome Confidential Computing** — <https://github.com/bpradipt/awesome-confidential-computing>
+* **Awesome AI Tools** — <https://github.com/mahseema/awesome-ai-tools>
+* **Awesome Proof of Personhood** — <https://github.com/andorsk/awesome-proof-of-personhood>
 
 ## Videos
 
-* **World Wide Web of AI Agents** - [Youtube](https://www.youtube.com/watch?v=jlcO19XyQ1I)
-* **Scaling the Agentic Web** — [YouTube Live](https://www.youtube.com/live/SJ8rFKJ8NHw?si=aCu03ZYaUKo6v5Lc&t=2235)
-* **IETF 123 – AIPREF Session (2025-07-21)** — [YouTube](https://www.youtube.com/watch?v=peXOXYH8vzM)
-* **AIPREF Interim (2025-04-08)** — [YouTube](https://www.youtube.com/watch?v=yc2lON_eVzk)
-* **AI Agent Protocols: From Theory to Practice** — [YouTube](https://www.youtube.com/watch?v=N_etKamePm0)
-
----
+* **World Wide Web of AI Agents** — <https://www.youtube.com/watch?v=jlcO19XyQ1I>
+* **Scaling the Agentic Web** — <https://www.youtube.com/live/SJ8rFKJ8NHw?si=aCu03ZYaUKo6v5Lc&t=2235>
+* **IETF 123 – AIPREF Session (2025-07-21)** — <https://www.youtube.com/watch?v=peXOXYH8vzM>
+* **AIPREF Interim (2025-04-08)** — <https://www.youtube.com/watch?v=yc2lON_eVzk>
+* **AI Agent Protocols: From Theory to Practice** — <https://www.youtube.com/watch?v=N_etKamePm0>
 
 ## Frameworks
 
-*TODO*
+* **LangGraph** — <https://github.com/langchain-ai/langgraph> — Graph-based control flow for stateful, tool-using LLM agents.
+* **AutoGen (Microsoft)** — <https://github.com/microsoft/autogen> — Multi-agent orchestration with conversational workflows and tool/function calling.
+* **CrewAI** — <https://github.com/joaomdmoura/crewai> — Role-based multi-agent collaboration with task planning and hand-offs.
+* **MetaGPT** — <https://github.com/geekan/MetaGPT> — Simulates a software startup team (PM/Dev/QA) to plan and ship projects.
+* **SuperAGI** — <https://github.com/TransformerOptimus/SuperAGI> — Full-stack agent platform with UI, tools, vector memory, and marketplaces.
+* **LangChain Agents** — <https://github.com/langchain-ai/langchain> — Agent abstractions (tools, memory, planning) for LLM apps.
+* **LlamaIndex Agents** — <https://github.com/run-llama/llama_index> — Agent tooling tied to retrieval/graphs for context-rich actions.
+* **CAMEL** — <https://github.com/lightaime/camel> — Cooperative role-play agents for task-solving via dialog.
+* **OpenDevin (Open Agents)** — <https://github.com/OpenDevin/OpenDevin> — Dev-oriented autonomous coding agents in a controlled OS-like environment.
+* **BabyAGI** — <https://github.com/yoheinakajima/babyagi> — Minimal autonomous task-loop scaffold (generate-prioritize-execute).
+
+---
 
 ## Libraries
 
-*TODO*
-
----
+* **Hyperledger Aries** — <https://github.com/hyperledger/aries-framework-javascript> — DIDComm agents & verifiable credentials (JS/TS; other langs available).
+* **DIDComm v2 (Python)** — <https://github.com/sicpa-dlab/didcomm-python> — Secure agent-to-agent messaging primitives (encryption, packing, routing).
+* **DIDKit** — <https://github.com/spruceid/didkit> — Cross-language toolkit for DIDs and VCs (Rust core with bindings/CLI).
+* **Credo TS (aries-framework-javascript successor)** — <https://github.com/openwallet-foundation/credo-ts> — Modern TS SDK for DIDComm/VC flows.
+* **KERI / ACDC (CESR-Py)** — <https://github.com/WebOfTrust/keri> — Key Event Receipt Infrastructure libraries for self-certifying identifiers & credentials.
+* **modelcontextprotocol/python** — <https://github.com/modelcontextprotocol/python-sdk> — Official Python SDK for MCP servers/clients.
+* **modelcontextprotocol/typescript** — <https://github.com/modelcontextprotocol/typescript-sdk> — Official TypeScript SDK for MCP servers/clients.
+* **Semantic Kernel** — <https://github.com/microsoft/semantic-kernel> — SDK for planning, tool plugins, and memory in agentic apps (.NET/TS/Python).
+* **smolagents** — <https://github.com/huggingface/smolagents> — Lightweight agent runtime and tool-calling library from Hugging Face.
 
 ## Taxonomy Commentary
 
 This map is intended to show how the core concept domains interlock:
 
-1. **Identity & Authority** — Who is the agent? Who grants what powers?
-2. **Autonomy & Intent** — What is the agent trying to achieve, and how?
-3. **Security, Safety & Governance** — Under what bounds can the agent operate securely and responsibly?
-4. **Interaction & Orchestration** — How do agents coordinate, negotiate, and cooperate in a shared ecosystem?
+1. **Identity & Authority** — Who is the agent? Who grants what powers?  
+2. **Autonomy & Intent** — What is the agent trying to achieve, and how?  
+3. **Security, Safety & Governance** — Under what bounds can the agent operate securely and responsibly?  
+4. **Interaction & Orchestration** — How do agents coordinate, negotiate, and cooperate in a shared ecosystem?  
 5. **Evaluation & Simulation** — How do we test, validate, and iterate agent behaviors before full deployment?
-
----
 
 ## Contribute
 
