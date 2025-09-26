@@ -52,8 +52,6 @@
 ### Agentic Commerce
 *(expand with scenarios such as autonomous shopping agents, negotiation agents, supply-chain agents, etc.)*
 
----
-
 ## Protocols & Implementations
 
 * **A2A Protocol** — [GitHub](https://github.com/a2aproject/A2A)
@@ -72,6 +70,7 @@
 * **Awesome Confidential Computing** — <https://github.com/bpradipt/awesome-confidential-computing>
 * **Awesome AI Tools** — <https://github.com/mahseema/awesome-ai-tools>
 * **Awesome Proof of Personhood** — <https://github.com/andorsk/awesome-proof-of-personhood>
+* **Aweseome AI Security** - <https://github.com/TalEliyahu/Awesome-AI-Security>
 
 ## Videos
 
